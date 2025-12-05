@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[77394,["/flight-tracker/_next/static/chunks/120c95df3c31f24f.js"],"default"]
-3:I[9842,["/flight-tracker/_next/static/chunks/121240f85a0f8a16.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"MJdq_ILToDksNh0cTgZGG","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen flex flex-col items-center justify-center p-4 relative overflow-hidden transition-colors duration-300","children":["$","div",null,{"className":"relative z-10 w-full","children":["$","$L2",null,{}]}]}],[["$","script","script-0",{"src":"/flight-tracker/_next/static/chunks/120c95df3c31f24f.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
