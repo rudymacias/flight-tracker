@@ -16,7 +16,7 @@ export default function FlightSearch() {
         setLoading(true);
         setHasSearched(true);
         try {
-            const res = await fetch('/api/flights');
+            const res = await fetch('/flight-tracker/api/flights');
             if (!res.ok) throw new Error('Failed to fetch flights');
             const data: Flight[] = await res.json();
 
